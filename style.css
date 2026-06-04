@@ -19,20 +19,17 @@ nav a {
     margin: 0 15px;
 }
 
-/* Target elements with the class name "highlight" */
 .highlight {
   color: #e74c3c;
   font-weight: bold;
 }
 
-/* Target a unique element with the ID "footer" */
 #footer {
   margin-top: 50px;
   font-size: 0.8rem;
   color: #7f8c8d;
 }
 
-/* Target a unique element with the ID "footer" */
 #donate {
   margin-top: 50px;
   font-size: 0.8rem;
