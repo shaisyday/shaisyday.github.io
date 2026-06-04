@@ -37,7 +37,11 @@ nav a {
     text-align: center;
 }
 
-div {
-  background-color: blue;
-  color: white;
+div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:100%;  
+  float:left;
 }
