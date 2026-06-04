@@ -36,5 +36,6 @@ nav a {
 #donate {
   margin-top: 50px;
   font-size: 0.8rem;
-  color: #FFCCFF;
+  text-color: #FFCCFF;
+    text-align: center;
 }
