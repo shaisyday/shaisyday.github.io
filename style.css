@@ -36,6 +36,11 @@ nav a {
 #donate {
   margin-top: 50px;
   font-size: 0.8rem;
-  text-color: #FFCCFF;
+  color: #FFCCFF;
     text-align: center;
+}
+
+div {
+  background-color: blue;
+  color: white;
 }
