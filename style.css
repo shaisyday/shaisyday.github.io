@@ -19,6 +19,7 @@ nav a {
     margin: 0 15px;
 }
 
+/* Target elements with the class name "highlight" */
 .highlight {
   color: #e74c3c;
   font-weight: bold;
