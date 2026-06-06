@@ -4,6 +4,7 @@ body {
     padding: 2px;
     background-color: #f2edeb;
 	color:#1d201f;
+	font-size: 18px;
 }
 header {
     padding: 10px;
@@ -14,5 +15,5 @@ html {
   scroll-behavior: smooth;
 }
 div {
-    padding: 15px;
+    padding: 45px;
 }
