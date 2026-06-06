@@ -35,13 +35,16 @@ nav a {
 
 #welcome {
     background-color: #ffffff;
-    padding: 50px;
 }
 #toxic {
     background-color: #000000;
+    width:50%;
+    float:left;
 }
 #servers {
     background-color: #00ffff;
+    width:50%;
+    float:right;
 }
 #discord {
     background-color: #ffff00;
