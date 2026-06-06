@@ -7,6 +7,7 @@ body {
 
 header {
     text-align: center;
+    font-color:#FFFFFF;
 }
 
 html {
@@ -22,46 +23,9 @@ nav a {
     margin: 0 15px;
 }
 
-.highlight {
-  color: #e74c3c;
-  font-weight: bold;
-}
-
 #footer {
-  margin-top: 50px;
-  font-size: 0.8rem;
-  color: #7f8c8d;
-}
-
-#welcome {
-    background-color: #ffffff;
-}
-#toxic {
-    background-color: #CCCCCC;
-}
-#servers {
-    background-color: #00ffff;
-}
-#discord {
-    background-color: #ffff00;
-}
-#donate {
-    background-color: #FFCCFF;
-}
-#rules {
-    background-color: #ff0000;
-}
-#team {
-    background-color: #0000ff;
-}
-#blog {
-    background-color: #00ff00;
-}
-
-
-div.mycontainer {
-  width:100%;
-  overflow:auto;
+  width:50%;  
+  display:inline-block;
 }
 
 .image-container {
