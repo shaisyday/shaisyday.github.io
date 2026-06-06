@@ -26,9 +26,8 @@ nav a {
 }
 
 div {
-  width:49%;  
-  display:inline-block;
-    margin: 15px;
+  width:90%;  
+    padding: 15px;
 }
 
 .image-container {
