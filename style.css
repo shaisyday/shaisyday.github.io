@@ -44,7 +44,8 @@ p {
     background: rgba(29, 32, 31, 0.6);
     color: white;
     width: 100%;
-    padding: 80px;
+    height: 100%;
+    padding: 20px;
 }
 
 .hero h1 {
