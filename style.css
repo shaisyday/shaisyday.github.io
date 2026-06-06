@@ -6,8 +6,10 @@ body {
 }
 
 header {
+      padding: 20px;
     text-align: center;
-    font-color:#FFFFFF;
+    color:#FFFFFF;
+      font-size: 30px;
 }
 
 html {
