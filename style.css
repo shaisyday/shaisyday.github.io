@@ -1,14 +1,14 @@
 body {
-		font-family: Rubik, sans-serif;
+	font-family: Rubik, sans-serif;
     margin: 0;
     padding: 20px;
     background-color: #f2edeb;
-		color:#1d201f;
+	color:#1d201f;
 }
 header {
-      padding: 20px;
+    padding: 20px;
     text-align: center;
-      font-size: 30px;
+    font-size: 30px;
 }
 html {
   scroll-behavior: smooth;
