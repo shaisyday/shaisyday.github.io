@@ -36,6 +36,7 @@ p {
     background-image: url("https://github.com/shaisyday/shaisyday.github.io/blob/main/images/zol1.png?raw=true");
     background-size: cover;
     background-position: center;
+    color: white;
 
     display: flex;
 }
@@ -46,7 +47,6 @@ p {
     background: rgba(29, 32, 31, 0.6);
 
     display: flex;
-    color: white;
     flex-direction: column;
     justify-content: center;
 
@@ -64,7 +64,7 @@ p {
 .btn {
     display: inline-block;
     padding: 12px 24px;
-    background: #fabc2a;
+    background: #ff0057;
     color: #1d201f;
     text-decoration: none;
     font-weight: bold;
