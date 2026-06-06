@@ -1,46 +1,18 @@
 body {
-    font-family: Rubik, sans-serif;
+		font-family: Rubik, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #FF0057
+    background-color: #f2edeb
+		color:#1d201f;
 }
-
 header {
       padding: 20px;
     text-align: center;
-    color:#FFFFFF;
       font-size: 30px;
 }
-
 html {
   scroll-behavior: smooth;
 }
-
-nav {
-    text-align: center;
-    margin: 20px 0;
-}
-
-nav a {
-    margin: 0 15px;
-}
-
 div {
     padding: 15px;
-}
-
-.image-container {
-  width: 200px;
-  height: 300px;
-  margin-bottom: 25px;
-}
-
-.image-container img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-}
-div.mycontainer div {
-  width:100%;  
-  float:left;
 }
