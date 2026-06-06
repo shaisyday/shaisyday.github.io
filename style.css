@@ -1,7 +1,7 @@
 body {
     font-family: Raleway, sans-serif;
     margin: 0;
-    padding: 20px;
+    padding: 0px;
     background-color: #FF0057
 }
 
@@ -37,14 +37,10 @@ nav a {
     background-color: #ffffff;
 }
 #toxic {
-    background-color: #000000;
-    width:50%;
-    float:left;
+    background-color: #CCCCCC;
 }
 #servers {
     background-color: #00ffff;
-    width:50%;
-    float:right;
 }
 #discord {
     background-color: #ffff00;
