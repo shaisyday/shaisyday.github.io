@@ -19,17 +19,17 @@ body {
 }
 
 section {
-    padding: 10px 0;
+    padding: 15px 0;
 }
 
 h1,
 h2,
 h3 {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 p {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 .hero {
@@ -96,7 +96,7 @@ p {
 }
 
 .card {
-    padding: 10px;
+    padding: 15px;
 }
 
 .discord {
@@ -130,7 +130,7 @@ footer {
     background: #1d201f;
     color: white;
     text-align: center;
-    padding: 5px 0;
+    padding: 1px 0;
 }
 
 html {
