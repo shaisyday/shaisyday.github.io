@@ -36,11 +36,13 @@ p {
     background-image: url("https://github.com/shaisyday/shaisyday.github.io/blob/main/images/zol1.png?raw=true");
     background-size: cover;
     background-position: center;
+
+    display: flex;
 }
 
 .overlay {
-    height: 100%;
-    width: 100%;
+    flex: 1;
+
     background: rgba(29, 32, 31, 0.6);
 
     display: flex;
