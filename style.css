@@ -38,6 +38,29 @@ nav a {
   font-size: 0.8rem;
 }
 
+#welcome {
+    background-color: #ffffff;
+}
+#toxic {
+    background-color: #000000;
+}
+#servers {
+    background-color: #00ffff;
+}
+#discord {
+    background-color: #ffff00;
+}
+#rules {
+    background-color: #ff0000;
+}
+#team {
+    background-color: #0000ff;
+}
+#blog {
+    background-color: #00ff00;
+}
+
+
 div.mycontainer {
   width:100%;
   overflow:auto;
