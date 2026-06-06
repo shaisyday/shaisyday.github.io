@@ -1,4 +1,4 @@
-* {
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -33,7 +33,7 @@ p {
 
 .hero {
     height: 80vh;
-    background-image: url("hero.jpg");
+    background-image: url("https://github.com/shaisyday/shaisyday.github.io/blob/main/images/zol1.png?raw=true");
     background-size: cover;
     background-position: center;
     display: flex;
